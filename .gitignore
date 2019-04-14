@@ -1,3 +1,10 @@
+# 作業範例
+examples/
+md/
+
+# data
+data/
+
 # vscode
 .vscode/*
 !.vscode/settings.json
@@ -15,3 +22,19 @@ __pycache__/
 # IPython
 profile_default/
 ipython_config.py
+
+# jetbrains IDE
+# CMake
+cmake-build-*/
+.idea/
+# File-based project format
+*.iws
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+# JIRA plugin
+atlassian-ide-plugin.xml
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
