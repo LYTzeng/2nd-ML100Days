@@ -1,4 +1,4 @@
-# 作業範例
+﻿# 作業範例
 examples/
 md/
 
@@ -7,10 +7,7 @@ data/
 
 # vscode
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+vspy/*
 
 # python
 # Byte-compiled / optimized / DLL files
